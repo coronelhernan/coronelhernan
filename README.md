@@ -71,6 +71,11 @@ Me enfoco en escribir código claro y bien estructurado, fortaleciendo progresiv
 
 ---
 
+![coronelhernan's Stats](https://github-readme-stats.vercel.app/api?username=coronelhernan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![coronelhernan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=coronelhernan&theme=vue-dark&hide_border=true)
+![coronelhernan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coronelhernan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+---
+
 ## 📫 Contacto
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hcoronel1996@gmail.com)
