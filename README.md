@@ -41,7 +41,7 @@ https://hcoroneldev-portfolio.vercel.app/
 
 ## Let's Connect
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/coronel-hernan">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
