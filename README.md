@@ -14,6 +14,8 @@
   modern web applications · responsive user interfaces · landing pages  
 </p>
 
+<br/>
+
 <h3>technologies I usually use</h3>
 <p align="start">
   <a href="https://skillicons.dev">
