@@ -1,7 +1,10 @@
 <img style="width: 100%" src="https://www.orangeitsoftwares.com/wp-content/uploads/2025/09/360_F_871603234_fTMmjlUOpt4F9mDudj8wjyzkt0khEtSZ-1.jpg">
 
-<h1 align="start">Hi, I'm 
-  <a href="https://hcoroneldev-portfolio.vercel.app/" target="_blank">Hernan Coronel</a>
+<h1 align="left">
+  Hi, I'm
+  <a href="https://hcoroneldev-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">
+    Hernan Coronel
+  </a>
 </h1>
 
 <h3>Fronted developer</h3>
