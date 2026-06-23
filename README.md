@@ -1,43 +1,36 @@
-![banner-gh](https://res.cloudinary.com/ddmltp5v5/image/upload/v1776715362/banner_fje81w.png)
+<img style="width: 100%" src="https://www.orangeitsoftwares.com/wp-content/uploads/2025/09/360_F_871603234_fTMmjlUOpt4F9mDudj8wjyzkt0khEtSZ-1.jpg">
 
-<h1 align="center">Hi, I'm Hernan Coronel 👋</h1>
-<h3 align="center">Frontend Developer focused on building modern web applications</h3>
+<h1 align="start">Hi, I'm 
+  <a href="https://hcoroneldev-portfolio.vercel.app/" target="_blank">Hernan Coronel</a>
+</h1>
 
----
+<h3>Fronted developer</h3>
 
-## About Me
+<br/>
 
-Frontend Developer specialized in building modern, responsive, and scalable web applications.
+<h3>What I Build</h3>
 
-I mainly work with React and JavaScript, creating clean, user-focused interfaces. Currently, I am expanding into full stack development by building REST APIs with Node.js and Express, integrating databases, and deploying production-ready applications.
-
-I focus on writing maintainable code, improving project architecture, and continuously evolving my skills across both frontend and backend.
-
----
-
-## Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind,bootstrap,nodejs,express,mongodb,git,github,postman,docker" />
+<p align="start">
+  modern web applications · responsive user interfaces · landing pages  
 </p>
 
----
+<h3>technologies I usually use</h3>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,astro,tailwind,react,vite,typescript" /><br><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo" /><br><br>
+  </a>
+</p>
 
-## Current Focus
-
-- Building full stack applications using React and Node.js  
-- Designing and developing REST APIs  
-- Working with databases and backend integrations  
-- Deploying real-world applications  
-- Improving code quality and project architecture  
-
----
-
-## Portfolio
+<h3>Portfolio</h3>
 
 https://hcoroneldev-portfolio.vercel.app/
 
----
+<h3>About me</h3>
+
+> `> Frontend Developer focused on building modern, responsive and user-friendly web applications.`
+
+> `> Currently, I am expanding my knowledge into backend development with Node.js, Express, PostgreSQL and Prisma while continuing to strengthen my frontend skills.`
 
 ## Let's Connect
 
